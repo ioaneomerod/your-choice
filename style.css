@@ -1,0 +1,84 @@
+body {
+  font-family: "Nunito Sans";
+}
+
+a {
+  color: inherit;
+}
+a:hover {
+  color: inherit;
+}
+
+#shop-link {
+  padding: 20px;
+}
+
+.ui.borderless.top.menu {
+  background-color: black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.three.column.grid {
+  margin-left: 20px;
+}
+
+.ui.two.column.grid {
+  margin-left: 20px;
+}
+
+#smosh-logo {
+  width: 120px;
+  margin-left: 335.797px;
+}
+
+.ui.animated.image {
+  margin-top: -15px;
+  background-image: url("https://cdn.shopify.com/s/files/1/0045/3017/6086/files/smsc-bg-01.jpg?959");
+  background-size: cover;
+  margin-bottom: 80px;
+}
+
+#account-text {
+  color: white;
+}
+
+.fitted.text.menu.item {
+  color: white;
+}
+
+.text.menu.item {
+  color: white;
+}
+
+.ui.shop.container {
+  margin-bottom: 50px;
+}
+
+#smoshxslushcult-header {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.price.item {
+  color: #6A6A6A;
+}
+
+.shop.header.item {
+  color: #1C1B1B;
+  margin-bottom: 4px;
+  margin-top: 20px;
+  font-weight: bolder;
+}
+
+.column.item {
+  color: #6A6A6A;
+  margin-bottom: 18px;
+}
+
+.ui.column.header {
+  color: #1C1B1B;
+  margin-bottom: 20px;
+}
