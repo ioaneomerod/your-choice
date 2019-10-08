@@ -15,8 +15,6 @@ a:hover {
 
 .ui.borderless.top.menu {
   background-color: black;
-  padding-top: 30px;
-  padding-bottom: 30px;
   box-shadow: none;
   border: none;
 }
@@ -64,6 +62,8 @@ a:hover {
 
 .price.item {
   color: #6A6A6A;
+  text-align: center;
+  margin-right: 80px;
 }
 
 .shop.header.item {
@@ -71,6 +71,8 @@ a:hover {
   margin-bottom: 4px;
   margin-top: 20px;
   font-weight: bolder;
+  text-align: center;
+  margin-right: 80px;
 }
 
 .column.item {
@@ -82,3 +84,4 @@ a:hover {
   color: #1C1B1B;
   margin-bottom: 20px;
 }
+
