@@ -85,3 +85,15 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.buttons {
+  position: fixed;
+  bottom: 0;
+}
+
+.ui.right.black.button {
+  margin-left: 1500px;
+}
+
+.ui.left.black.button {
+  margin-left: 10px;
+}
